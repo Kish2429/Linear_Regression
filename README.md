@@ -1,0 +1,1 @@
+•	This project uses Linear Regression to predict body fat percentage based on various physical measurements like weight, height, and chest circumference, employing data preprocessing, model training, and evaluation. The model’s predictions are visualized through scatter plots, comparing actual vs. predicted values, and the trained model is saved for future predictions.
